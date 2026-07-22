@@ -1,0 +1,9 @@
+
+Gold is expected to decrease tomorrow by approximately 0.41%.
+
+The strongest contributing factors in the prediction are:
+1. VIX
+2. Oil_Price
+3. Gold_Lag_7
+
+Current market sentiment based on financial news is negative.
