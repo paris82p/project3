@@ -1,2 +1,2 @@
-https://github.com/paris82p/project3.git
+https://github.com/paris82p/gold-price-prediction.git
 https://drive.google.com/drive/folders/10mRf4iXkmOQTE32mOD3LMJNTTCE3AxCa?usp=sharing
